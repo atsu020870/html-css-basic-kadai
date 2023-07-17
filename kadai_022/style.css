@@ -1,8 +1,18 @@
-body h1 p{
+body{
   margin: 0;
 }
 
-h1 p{
+h1{
+  margin: 0;
+}
+
+
+p{
+  font-size: 20px;
+  margin: 0;
+}
+
+a{
   font-size: 20px;
 }
 
@@ -82,3 +92,4 @@ footer a:hover{
     display: inline-block;
   }
 }
+
